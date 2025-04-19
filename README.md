@@ -47,10 +47,11 @@ This project is best viewed and run in **Google Colab**. No local setup is requi
 1. Click the button below to open the notebook in Google Colab:
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/black-friday-analysis/blob/main/notebooks/BlackFriday_Analysis.ipynb)
+2. Upload the given 'DataAnalysis_Black_Friday_Analysis.ipynb' file.
 
-2. Once the notebook is open, follow the instructions in each cell to run the analysis step-by-step.
+3. Once the notebook is open, follow the instructions in each cell to run the analysis step-by-step.
 
-3. Make sure to upload the dataset or mount your Google Drive if necessary.
+4. Make sure to upload the dataset or mount your Google Drive if necessary.
 
 ## 🎓 Key Learnings
 

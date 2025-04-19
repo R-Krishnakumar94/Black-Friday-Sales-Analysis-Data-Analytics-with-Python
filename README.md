@@ -36,13 +36,36 @@ Whether you're a beginner exploring your first dataset or a professional refinin
 
 ## 🛠️ Tools & Libraries
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Google colab Notebook
+- Python (Pandas, NumPy)
+- Google Colab 
+
 
 ## 🚀 How to Run
 
-```bash
-git clone https://github.com/yourusername/black-friday-analysis.git
-cd black-friday-analysis
-pip install -r requirements.txt
-jupyter notebook notebooks/BlackFriday_Analysis.ipynb
+This project is best viewed and run in **Google Colab**. No local setup is required.
+
+1. Click the button below to open the notebook in Google Colab:
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/black-friday-analysis/blob/main/notebooks/BlackFriday_Analysis.ipynb)
+
+2. Once the notebook is open, follow the instructions in each cell to run the analysis step-by-step.
+
+3. Make sure to upload the dataset or mount your Google Drive if necessary.
+
+## 🎓 Key Learnings
+
+- Gained hands-on experience with real-world data preprocessing and wrangling.
+- Practiced using groupby operations and pivot tables.
+- Learned how demographic factors influence purchasing behavior in retail datasets.
+- Enhanced proficiency in data analysis using Pyhton
+
+## 🔮 Future Scope
+
+- Implement customer segmentation using clustering techniques.
+- Enhance visualizations with interactive dashboards.
+- Incorporate time-series data or compare behavior across multiple sales events.
+- Analyze similar datasets from other e-commerce platforms for comparative insights.
+
+---
+
+Feel free to fork or clone the repository to explore further!

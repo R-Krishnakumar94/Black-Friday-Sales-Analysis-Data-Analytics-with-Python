@@ -26,14 +26,6 @@ Whether you're a beginner exploring your first dataset or a professional refinin
   - Pandas
   - NumPy
 
-## 🔍 Exploratory Data Analysis (EDA)
-
-- Checked for null values and cleaned the data.
-- Plotted distributions for:
-  - Gender-based purchases
-  - Age vs. Purchase trends
-  - Occupation vs. Purchase
-  - City category-wise spending
 
 ## 📈 Key Insights
 
